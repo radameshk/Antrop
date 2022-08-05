@@ -1,0 +1,31 @@
+.contenedor-antropotec{
+    width: 1170 px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: olive;
+    box-shadow: 0 3px 13px 1px;
+}
+
+.imagen-antropotec{
+    height: auto;
+    width: auto;
+}
+
+.contenedor-texto-antropotec{
+    text-align: center;
+    padding: 40px;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.nombre-antropotec{
+    font-size: 1.3rem;
+}
+
+.texto-antropotec{
+    font-size: 1.1rem;
+    text-align: justify;
+}
